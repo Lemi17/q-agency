@@ -1,0 +1,21 @@
+.posts_container {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+
+  margin: 0 auto;
+}
+
+.show_more {
+  margin: 0 auto;
+  margin-top: 16px;
+  cursor: pointer;
+  color: #fff;
+  background-color: var(--primary-color);
+
+  width: fit-content;
+  padding: 4px 8px;
+  border-radius: 8px;
+
+  font-weight: 600;
+}

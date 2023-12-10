@@ -1,0 +1,22 @@
+.posts_page {
+  text-align: center;
+  padding: 16px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.posts_page h1 {
+  margin-bottom: 16px;
+}
+
+.posts_search_wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.posts_page_search {
+  padding: 8px;
+
+  margin: 0 auto;
+}

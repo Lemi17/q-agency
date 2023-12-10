@@ -1,0 +1,16 @@
+.post_body {
+  border-bottom: 3px dotted var(--tertiary-color);
+  margin-bottom: 16px;
+  background-color: #fff;
+}
+
+.post_heading1 {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post_paragraph {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 0px;
+}

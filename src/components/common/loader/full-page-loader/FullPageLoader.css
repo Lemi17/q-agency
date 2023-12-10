@@ -1,0 +1,7 @@
+.full_page_loader {
+  height: calc(100vh - 302px);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

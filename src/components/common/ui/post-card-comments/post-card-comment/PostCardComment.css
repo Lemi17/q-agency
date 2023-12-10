@@ -1,0 +1,11 @@
+.post_card_comment {
+  display: flex;
+  gap: 16px;
+
+  text-align: left;
+  padding: 4px;
+}
+
+.post_card_comment p strong {
+  margin-right: 8px;
+}

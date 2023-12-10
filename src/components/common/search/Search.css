@@ -1,0 +1,14 @@
+.search_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+
+  width: fit-content;
+
+  border: 2px solid var(--tertiary-color);
+
+  border-radius: 8px;
+  padding: 8px;
+  padding-left: 16px;
+}
